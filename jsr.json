@@ -1,0 +1,6 @@
+{
+    "name": "@caffeinum/dnum",
+    "version": "2.14.0",
+    "description": "Small library for big decimal numbers.",
+    "exports": "./src/index.ts"
+}
